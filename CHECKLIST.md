@@ -1,5 +1,5 @@
 # Checklist — Bookdarr Media Diagnostics
 
-- [ ] Keep diagnostics opt‑in
-- [ ] Ensure /bms and /reader remain separated
-- [ ] Never store secrets
+- [x] Docs scaffolded
+- [ ] Create /bms and /reader folders when needed
+- [ ] Ensure no secrets are stored

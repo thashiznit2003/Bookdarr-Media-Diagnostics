@@ -1,11 +1,11 @@
 # AGENTS.md — Bookdarr Media Diagnostics
 
 ## Purpose
-Store opt‑in diagnostics for BMS and Reader.
+Central diagnostics repo for BMS and Reader.
 
 ## Structure
 - /bms
 - /reader
 
 ## Policy
-No secrets or credentials in diagnostics.
+Diagnostics are opt‑in. Never store secrets.

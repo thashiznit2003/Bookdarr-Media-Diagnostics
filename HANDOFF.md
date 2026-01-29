@@ -1,8 +1,7 @@
 # Handoff — Bookdarr Media Diagnostics
 
-## Status
-- Repo created and initialized.
-- Basic docs added.
+## Current Status
+- Repo created with docs.
 
 ## Next Steps
-- Add directories /bms and /reader once diagnostics begin.
+- Add /bms and /reader folders once diagnostics begin.
